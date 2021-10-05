@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 //Prototype
-void swap(int,int);
+ void swap(int,int);
 
 int main(){
     int a,b;
